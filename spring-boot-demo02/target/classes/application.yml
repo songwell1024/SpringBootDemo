@@ -1,0 +1,11 @@
+#person:
+#    name: zhangsan
+#    age: 18
+#    boos: false
+#    maps: {k1: 2, k2: q}
+#    dog:
+#       name: wangwang
+#       age: 2
+logging:
+  level:
+      com.demo.springbootdemo2: trace
